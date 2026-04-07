@@ -1,32 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=A.Mohamed%20Ismail&fontSize=50&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Pixel%20Craftsman%20%7C%20World%20Builder&descAlignY=58&descColor=ff6b6b"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=A.%20Mohamed%20Ismail&fontSize=50&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Pixel%20Craftsman%20%7C%20World%20Builder&descAlignY=58&descColor=ff6b6b"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=+PLAYER+ONE+HAS+ENTERED+THE+GAME...;+LOADING+GAME+DEVELOPER+PROFILE...;+CRAFTING+WORLDS+%26+MECHANICS...;+DEBUGGING+REALITY+SINCE+DAY+ONE...;+PRESS+START+TO+COLLABORATE+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=+PLAYER+ONE+HAS+ENTERED+THE+GAME...;+Hi%2C+I'm+A.+Mohamed+Ismail+%F0%9F%91%BE;+Game+Developer+%7C+World+Builder;+CRAFTING+WORLDS+%26+MECHANICS...;+PRESS+START+TO+COLLABORATE+%F0%9F%8E%AE)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="100px"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="120px"/>
-
-</div>
+## 👾 ABOUT ME
 
 <div align="center">
 
 ```
- ██████╗  █████╗ ███╗   ███╗███████╗    ██████╗ ███████╗██╗   ██╗
-██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔══██╗██╔════╝██║   ██║
-██║  ███╗███████║██╔████╔██║█████╗      ██║  ██║█████╗  ██║   ██║
-██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║  ██║██╔══╝  ╚██╗ ██╔╝
-╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ██████╔╝███████╗ ╚████╔╝ 
- ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
+╔══════════════════════════════════════════════════════════════╗
+║                     🎮 PLAYER PROFILE                        ║
+╠══════════════════════════════════════════════════════════════╣
+║  🧑‍💻 Name         →  A. Mohamed Ismail                        ║
+║  🎮 Role         →  Game Developer                           ║
+║  🌍 GitHub       →  github.com/ismail-io                     ║
+║  💼 LinkedIn     →  in/a-mohamed-ismail-9002a8329            ║
+║  📦 Repos        →  15 Public Projects                       ║
+║  🌐 Web Project  →  ismail-io.github.io/idog.web-two         ║
+║  ⚡ Status       →  Always Building Something New            ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -42,7 +49,7 @@
 | ⚔️ Game Design | LVL 99 | `████████████████████` |
 | 🧠 Programming | LVL 95 | `███████████████████░` |
 | 🎨 Art & UI | LVL 88 | `█████████████████░░░` |
-| 🔊 Sound Design | LVL 75 | `███████████████░░░░░` |
+| 🌐 Web Dev | LVL 85 | `█████████████████░░░` |
 | 🐛 Bug Hunting | LVL 100 | `████████████████████` |
 
 </div>
@@ -61,15 +68,15 @@
 ### 💻 Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🛠️ Tools
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -79,27 +86,27 @@
 
 <div align="center">
 
-> *Watch the snake slither through my contribution grid...*
-
-![Snake animation](https://raw.githubusercontent.com/ismail-io/ismail-io/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismail-io/ismail-io/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismail-io/ismail-io/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ismail-io/ismail-io/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
 ---
 
-## 🕷️ SPIDER CALENDAR — ACTIVITY WEB
+## 🕷️ SPIDER ACTIVITY WEB
 
 <div align="center">
 
-> *The spider weaves its web across the calendar...*
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismail-io&theme=tokyo-night&hide_border=true&area=true&custom_title=🕷️%20Spider%20Activity%20Web&color=00ff88&line=ff6b6b&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismail-io&theme=tokyo-night&hide_border=true&area=true&custom_title=Spider%20Activity%20Web&color=00ff88&line=ff6b6b&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📊 GAME OVER STATS SCREEN
+## 📊 STATS SCREEN
 
 <div align="center">
 
@@ -136,7 +143,7 @@
 ╠══════════════════════════════════════════════════════════╣
 ║  🎮 Main Quest    →  Building next-gen game worlds       ║
 ║  ⚔️  Side Quest   →  Mastering procedural generation     ║
-║  🧪 Daily Quest  →  Squashing bugs before they multiply  ║
+║  🌐 Web Quest    →  Shipping idog.web-two to the world   ║
 ║  🌍 Epic Quest   →  Ship a game that changes everything  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -149,9 +156,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismail-io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/a-mohamed-ismail-9002a8329)
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io)
+[![GitHub](https://img.shields.io/badge/GitHub-ismail--io-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismail-io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A.Mohamed_Ismail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/a-mohamed-ismail-9002a8329)
+[![Web](https://img.shields.io/badge/Web-idog.web--two-00ff88?style=for-the-badge&logo=github-pages&logoColor=black)](https://ismail-io.github.io/idog.web-two/)
+[![itch.io](https://img.shields.io/badge/itch.io-Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io)
 
 </div>
 
@@ -165,7 +173,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling&fontColor=00ff88"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
 
 **`< GAME OVER? NO. NEXT LEVEL. />`**
 
