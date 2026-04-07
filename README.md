@@ -221,31 +221,13 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="Pacman"/>
 <br/><b style="color:#00ff41">PAC-MAN</b>
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200" alt="Dino Game"/>
 <br/><b style="color:#00ff41">DINO RUN</b>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="200" alt="Binary"/>
-<br/><b style="color:#00ff41">BINARY CODE</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200" alt="Fire"/>
-<br/><b style="color:#00ff41">FIRE POWER</b>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="200" alt="Catch"/>
-<br/><b style="color:#00ff41">LET'S CATCH</b>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="200" alt="Keep Moving"/>
-<br/><b style="color:#00ff41">KEEP MOVING</b>
 </td>
 </tr>
 </table>
@@ -293,8 +275,6 @@
 <br/>
 
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-io&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&title_color=00ff41&text_color=00cc33&bg_color=000000)](https://github.com/ismail-io)
-&nbsp;
-[![streak](https://streak-stats.demolab.com?user=ismail-io&theme=matrix&hide_border=true&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&background=000000&stroke=00ff41&dates=00cc33)](https://git.io/streak-stats)
 
 </div>
 
