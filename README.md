@@ -1,23 +1,40 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f0f0f0,50:ffffff,100:f0f0f0&height=300&section=header&text=A.%20Mohamed%20Ismail&fontSize=52&fontColor=111111&animation=fadeIn&fontAlignY=45&desc=🎮%20Game%20Developer%20%7C%20Pixel%20Craftsman%20%7C%20World%20Builder&descAlignY=65&descColor=0066cc&stroke=222222&strokeWidth=1" width="100%"/>
+﻿<!-- HEADER — WHITE BG + BLINK ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:e0f7ff,80:f0fff0,100:ffffff&height=260&section=header&text=A.%20Mohamed%20Ismail&fontSize=56&fontColor=0a0a0a&animation=blink&fontAlignY=42&desc=🎮%20Game%20Developer%20%7C%20Pixel%20Craftsman%20%7C%20World%20Builder&descAlignY=63&descColor=0066cc" width="100%"/>
 
-<!-- MATRIX CYBER RAIN STRIP -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="120px"/>
+<!-- WHITE CYBER RAIN SVG 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="55" style="background:#fff">
+  <text x="20"  y="30" font-family="monospace" font-size="13" fill="#22cc44">
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+    1 0 1 1 0 1 0 0 1 1 0 1 0 1 1 0 0 1
+  </text>
+  <text x="300" y="45" font-family="monospace" font-size="13" fill="#22cc44">
+    <animate attributeName="opacity" values="0;1;0" dur="2.5s" begin="0.5s" repeatCount="indefinite"/>
+    0 1 0 0 1 0 1 1 0 0 1 0 1 0 0 1 1 0
+  </text>
+  <text x="600" y="20" font-family="monospace" font-size="13" fill="#22cc44">
+    <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="1s" repeatCount="indefinite"/>
+    1 1 0 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1
+  </text>
+</svg>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=111111&center=true&vCenter=true&background=FFFFFF&width=750&lines=▓▒░+PLAYER+ONE+HAS+ENTERED+THE+GAME+░▒▓;Hi%2C+I'm+A.+Mohamed+Ismail+👾;Game+Developer+%7C+World+Builder;CRAFTING+WORLDS+%26+MECHANICS...;PRESS+START+TO+COLLABORATE+🎮)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=0066CC&center=true&vCenter=true&background=FFFFFF&width=750&lines=▓▒░+PLAYER+ONE+HAS+ENTERED+THE+GAME+░▒▓;Hi%2C+I'm+A.+Mohamed+Ismail+👾;Game+Developer+%7C+World+Builder;CRAFTING+WORLDS+%26+MECHANICS...;PRESS+START+TO+COLLABORATE+🎮)](https://git.io/typing-svg)
 
 </div>
 
-<!-- CYBER RAIN DIVIDER -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="50px"/>
+<!-- WHITE CYBER RAIN SVG 2 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="45" style="background:#fff">
+  <text x="10"  y="28" font-family="monospace" font-size="12" fill="#22cc44">
+    <animate attributeName="opacity" values="1;0.1;1" dur="1.4s" repeatCount="indefinite"/>
+    █▒░ 0 1 0 1 ░▒█  █▒░ 1 0 1 0 ░▒█  █▒░ 0 0 1 1 ░▒█  █▒░ 1 1 0 0 ░▒█
+  </text>
+</svg>
 
 ---
 
 <div align="center">
 
-<!-- IDOG + ABOUT ME SIDE BY SIDE -->
 <table border="0" cellspacing="0" cellpadding="16">
 <tr>
 <td width="52%" align="center" valign="top">
@@ -26,14 +43,8 @@
 
 [![idog](https://github-readme-stats.vercel.app/api/pin/?username=ismail-io&repo=idog.web-two&theme=default&hide_border=false&title_color=0066cc&icon_color=0066cc&text_color=111111&bg_color=ffffff)](https://ismail-io.github.io/idog.web-two/)
 
-<!-- WEBSITE PREVIEW FRAME -->
 <a href="https://ismail-io.github.io/idog.web-two/" target="_blank">
-  <img
-    src="https://api.microlink.io/?url=https%3A%2F%2Fismail-io.github.io%2Fidog.web-two%2F&screenshot=true&meta=false&embed=screenshot.url"
-    alt="iDog Website Preview"
-    width="100%"
-    style="border:3px solid #0066cc; border-radius:10px;"
-  />
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Fismail-io.github.io%2Fidog.web-two%2F&screenshot=true&meta=false&embed=screenshot.url" alt="iDog Website Preview" width="100%" style="border:3px solid #0066cc;border-radius:10px;"/>
 </a>
 
 <br/>
@@ -67,8 +78,13 @@
 
 </div>
 
-<!-- CYBER RAIN DIVIDER -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="50px"/>
+<!-- WHITE CYBER RAIN SVG 3 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="45" style="background:#fff">
+  <text x="10" y="28" font-family="monospace" font-size="12" fill="#22cc44">
+    <animate attributeName="opacity" values="1;0.1;1" dur="1.6s" repeatCount="indefinite"/>
+    █▒░ 1 0 1 0 ░▒█  █▒░ 0 1 0 1 ░▒█  █▒░ 1 1 0 0 ░▒█  █▒░ 0 0 1 1 ░▒█
+  </text>
+</svg>
 
 ---
 
@@ -86,8 +102,13 @@
 
 </div>
 
-<!-- CYBER RAIN DIVIDER -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="50px"/>
+<!-- WHITE CYBER RAIN SVG 4 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="45" style="background:#fff">
+  <text x="10" y="28" font-family="monospace" font-size="12" fill="#22cc44">
+    <animate attributeName="opacity" values="1;0.1;1" dur="1.3s" repeatCount="indefinite"/>
+    █▒░ 0 1 0 1 ░▒█  █▒░ 1 0 1 0 ░▒█  █▒░ 0 0 1 1 ░▒█  █▒░ 1 1 0 0 ░▒█
+  </text>
+</svg>
 
 ---
 
@@ -115,8 +136,13 @@
 
 </div>
 
-<!-- CYBER RAIN DIVIDER -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="50px"/>
+<!-- WHITE CYBER RAIN SVG 5 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="45" style="background:#fff">
+  <text x="10" y="28" font-family="monospace" font-size="12" fill="#22cc44">
+    <animate attributeName="opacity" values="1;0.1;1" dur="1.7s" repeatCount="indefinite"/>
+    █▒░ 1 1 0 0 ░▒█  █▒░ 0 1 0 1 ░▒█  █▒░ 1 0 1 0 ░▒█  █▒░ 0 0 1 1 ░▒█
+  </text>
+</svg>
 
 ---
 
@@ -127,13 +153,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismail-io/ismail-io/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismail-io/ismail-io/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ismail-io/ismail-io/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ismail-io/ismail-io/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
-<!-- CYBER RAIN DIVIDER -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="50px"/>
+<!-- WHITE CYBER RAIN SVG 6 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="45" style="background:#fff">
+  <text x="10" y="28" font-family="monospace" font-size="12" fill="#22cc44">
+    <animate attributeName="opacity" values="1;0.1;1" dur="2s" repeatCount="indefinite"/>
+    █▒░ 0 1 0 1 ░▒█  █▒░ 1 0 1 0 ░▒█  █▒░ 0 0 1 1 ░▒█  █▒░ 1 1 0 0 ░▒█
+  </text>
+</svg>
 
 ---
 
@@ -145,8 +176,13 @@
 
 </div>
 
-<!-- CYBER RAIN DIVIDER -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="50px"/>
+<!-- WHITE CYBER RAIN SVG 7 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="45" style="background:#fff">
+  <text x="10" y="28" font-family="monospace" font-size="12" fill="#22cc44">
+    <animate attributeName="opacity" values="1;0.1;1" dur="1.5s" repeatCount="indefinite"/>
+    █▒░ 1 0 0 1 ░▒█  █▒░ 0 1 1 0 ░▒█  █▒░ 1 0 1 0 ░▒█  █▒░ 0 1 0 1 ░▒█
+  </text>
+</svg>
 
 ---
 
@@ -167,8 +203,13 @@
 
 </div>
 
-<!-- CYBER RAIN DIVIDER -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="50px"/>
+<!-- WHITE CYBER RAIN SVG 8 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="45" style="background:#fff">
+  <text x="10" y="28" font-family="monospace" font-size="12" fill="#22cc44">
+    <animate attributeName="opacity" values="1;0.1;1" dur="1.9s" repeatCount="indefinite"/>
+    █▒░ 0 0 1 1 ░▒█  █▒░ 1 1 0 0 ░▒█  █▒░ 0 1 0 1 ░▒█  █▒░ 1 0 1 0 ░▒█
+  </text>
+</svg>
 
 ---
 
@@ -191,10 +232,8 @@
 
 </div>
 
-<!-- CYBER RAIN FOOTER -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="80px"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,50:ffffff,100:f0f0f0&height=120&section=footer&animation=twinkling&fontColor=111111"/>
+<!-- FOOTER WHITE WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0fff0,50:e0f7ff,100:ffffff&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
 
