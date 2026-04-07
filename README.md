@@ -1,113 +1,174 @@
 <div align="center">
 
-# Hi there, I'm Yeachan Heo 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=A.Mohamed%20Ismail&fontSize=50&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Pixel%20Craftsman%20%7C%20World%20Builder&descAlignY=58&descColor=ff6b6b"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Quant+Trader+by+Day;Multi-Agent+Architect+by+Night;The+Boulder+Never+Stops)](https://git.io/typing-svg)
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/Yeachan-Heo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Yeachan-Heo)
-[![GitHub User's stars](https://img.shields.io/github/stars/Yeachan-Heo?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/Yeachan-Heo)
-[![Profile Views](https://komarev.com/ghpvc/?username=Yeachan-Heo&style=for-the-badge&color=blueviolet)](https://github.com/Yeachan-Heo)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=+PLAYER+ONE+HAS+ENTERED+THE+GAME...;+LOADING+GAME+DEVELOPER+PROFILE...;+CRAFTING+WORLDS+%26+MECHANICS...;+DEBUGGING+REALITY+SINCE+DAY+ONE...;+PRESS+START+TO+COLLABORATE+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-![Quant Trading](https://img.shields.io/badge/Quant_Trading-00C853?style=for-the-badge&logo=tradingview&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
-![IDK](https://img.shields.io/badge/IDK-666666?style=for-the-badge&logo=question&logoColor=white)
-![Claude Does It All](https://img.shields.io/badge/Claude_Does_It_All-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex Does It All](https://img.shields.io/badge/Codex_Does_It_All-0F172A?style=for-the-badge&logo=openai&logoColor=white)
-
-*I trade by day, mass-vibe-code with Claude and Codex by night* 📈✨
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="120px"/>
 
 </div>
 
----
-
-## 📊 AI Usage Embed
-
 <div align="center">
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/Yeachan-Heo/svg?sort=cost&compact=1)](https://tokscale.ai/u/Yeachan-Heo)
-
-<details>
-<summary><b>GitHub embed snippet</b></summary>
-
-```md
-[![Tokscale Stats](https://tokscale.ai/api/embed/Yeachan-Heo/svg?sort=cost&compact=1)](https://tokscale.ai/u/Yeachan-Heo)
+```
+ ██████╗  █████╗ ███╗   ███╗███████╗    ██████╗ ███████╗██╗   ██╗
+██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔══██╗██╔════╝██║   ██║
+██║  ███╗███████║██╔████╔██║█████╗      ██║  ██║█████╗  ██║   ██║
+██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║  ██║██╔══╝  ╚██╗ ██╔╝
+╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ██████╔╝███████╗ ╚████╔╝ 
+ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-</details>
-
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🕹️ PLAYER STATS
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yeachan-Heo&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| STAT | VALUE | BAR |
+|------|-------|-----|
+| ⚔️ Game Design | LVL 99 | `████████████████████` |
+| 🧠 Programming | LVL 95 | `███████████████████░` |
+| 🎨 Art & UI | LVL 88 | `█████████████████░░░` |
+| 🔊 Sound Design | LVL 75 | `███████████████░░░░░` |
+| 🐛 Bug Hunting | LVL 100 | `████████████████████` |
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 TECH ARSENAL
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Yeachan-Heo/Yeachan-Heo/output/github-contribution-grid-snake-dark.svg)
+### ⚡ Game Engines
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🛠️ Tools
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🐍 SNAKE EATS MY CONTRIBUTIONS
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yeachan-Heo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeachan-heo-225b02219/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bellman_ych)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hurrc04@gmail.com)
+> *Watch the snake slither through my contribution grid...*
+
+![Snake animation](https://raw.githubusercontent.com/ismail-io/ismail-io/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🕷️ SPIDER CALENDAR — ACTIVITY WEB
 
-```text
-💹 Day job       Quant Trading
-🔭 Side project  Multi-Agent Orchestration Systems
-💬 Ask me about  Claude Code, AI Agents, Automation
-⚡ Fun fact      I mass-vibe-code with Claude
+<div align="center">
+
+> *The spider weaves its web across the calendar...*
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismail-io&theme=tokyo-night&hide_border=true&area=true&custom_title=🕷️%20Spider%20Activity%20Web&color=00ff88&line=ff6b6b&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📊 GAME OVER STATS SCREEN
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismail-io&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff88&icon_color=ff6b6b&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-io&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00ff88&text_color=ffffff&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ismail-io&theme=tokyonight&hide_border=true&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ismail-io&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 CURRENT QUEST LOG
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                    📜 ACTIVE QUESTS                      ║
+╠══════════════════════════════════════════════════════════╣
+║  🎮 Main Quest    →  Building next-gen game worlds       ║
+║  ⚔️  Side Quest   →  Mastering procedural generation     ║
+║  🧪 Daily Quest  →  Squashing bugs before they multiply  ║
+║  🌍 Epic Quest   →  Ship a game that changes everything  ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
 ---
+
+## 🌐 CONNECT & CO-OP
 
 <div align="center">
 
-### 💡 Random Dev Quote
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismail-io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/a-mohamed-ismail-9002a8329)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io)
+
+</div>
+
+---
+
+<div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling&fontColor=00ff88"/>
 
-*One must imagine a multi-agent system happy.*
+**`< GAME OVER? NO. NEXT LEVEL. />`**
 
-**🪨 The boulder never stops.**
+![Profile Views](https://komarev.com/ghpvc/?username=ismail-io&style=for-the-badge&color=00ff88&label=PLAYERS+VISITED)
 
 </div>
