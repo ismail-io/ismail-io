@@ -8,7 +8,7 @@ I design and build games from concept to shipped product — gameplay systems, 3
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Game+Developer;3D+Character+Artist;Web+Developer;Building+worlds%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-ismail--io-181717?style=flat-square&logo=github)](https://github.com/ismail-io)
+[![GitHub](https://img.shields.io/badge/GitHub-ismail--io-181717?style=flat-square&logo=github)](https://ismail-io.itch.io/roboshell-savior)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A.%20Mohamed%20Ismail-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/a-mohamed-ismail-9002a8329)
 [![Portfolio](https://img.shields.io/badge/Live%20Project-iDog-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://ismail-io.github.io/idog.web-two/)
 
